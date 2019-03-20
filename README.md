@@ -1,6 +1,6 @@
 # ![alt text](https://github.com/enigmatic7earth/Contact.ly/blob/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-72.png "Contact.ly - Flutter app") Contact.ly_app
 
-A new Flutter project.
+A simple, basic Flutter project using the tutorial found on [Appcoda.com](https://www.appcoda.com/flutter-basics/)
 
 ## Getting Started
 
